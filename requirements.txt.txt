@@ -1,0 +1,13 @@
+gradio
+faster-whisper
+pydub
+python-dotenv
+sentence-transformers
+transformers==4.43.0
+sympy==1.13.1
+chromadb
+langchain-openai
+langchain-community
+langchain-huggingface
+langsmith
+torch
